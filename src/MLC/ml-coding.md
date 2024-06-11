@@ -1,6 +1,9 @@
 # <a name="ml-coding"></a> 2. ML/Data Coding :robot:
 ML coding module may or may not exist in particular companies interviews. The good news is that, there are only a limited number of ML algorithms that candidates are expected to be able to code. The most common ones include:
 
+## End to end ML project
+- Noteboon([code](./notebooks/end_to_end_ml_project.ipynb))
+  
 ## ML Algorithms 
 - Linear regression ([code](./notebooks/linear_regression.ipynb)) :white_check_mark:
 
